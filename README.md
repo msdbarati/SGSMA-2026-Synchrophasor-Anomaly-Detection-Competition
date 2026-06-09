@@ -352,7 +352,7 @@ Any language is acceptable; Python is recommended for the widest library support
 
 ---
 
-## Organizers & Contact
+## Organizer & Contact
 
 | Organizer | Affiliation | Email |
 | --- | --- | --- |
