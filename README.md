@@ -357,8 +357,6 @@ Any language is acceptable; Python is recommended for the widest library support
 | Organizer | Affiliation | Email |
 | --- | --- | --- |
 | **Masoud Barati** | University of Pittsburgh | masoud.barati@pitt.edu |
-| **Payman Dehghanian** | George Washington University | payman@gwu.edu |
-| **David Celeita** | Universidad de la Sabana | david.celeita@unisabana.edu.co |
 
 **Good luck and have fun!**
 
