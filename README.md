@@ -352,9 +352,9 @@ Any language is acceptable; Python is recommended for the widest library support
 
 ---
 
-## Organizer & Contact
+## Author & Contact
 
-| Organizer | Affiliation | Email |
+| Author | Affiliation | Email |
 | --- | --- | --- |
 | **Masoud Barati** | University of Pittsburgh | masoud.barati@pitt.edu |
 
